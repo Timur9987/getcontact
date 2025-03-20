@@ -14,7 +14,6 @@ magic-filter==1.0.12
 multidict==6.2.0
 openpyxl==3.1.5
 propcache==0.3.0
-PyAudio==0.2.14
 pydantic==2.10.6
 pydantic_core==2.27.2
 PyQt5==5.15.11
